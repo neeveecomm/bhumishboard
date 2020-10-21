@@ -14,7 +14,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -193,23 +193,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LQUQWHHG
 
 [Document10]
-DocumentPath=CAN.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SZTCHTJW
-
-[Document11]
 DocumentPath=PowerSupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZOVANSY
 
-[Document12]
+[Document11]
 DocumentPath=Zigbee.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBDYPLKW
 
-[Document13]
+[Document12]
 DocumentPath=DebugConsole.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHQLQHJQ
 
-[Document14]
+[Document13]
 DocumentPath=LoRa.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YBHIWCBV
 
-[Document15]
+[Document14]
 DocumentPath=Mechanicals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESJHLYMY
 
-[Document16]
+[Document15]
 DocumentPath=L506.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,6 +293,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTVJENYS
+
+[GeneratedDocument1]
+DocumentPath=MessageListReport.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
