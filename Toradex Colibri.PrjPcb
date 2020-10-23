@@ -293,40 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QPFYTLSQ
 
 [Document16]
-DocumentPath=G:\Altium library\3DPCBLIBRARY\3DPCBLIBRARY.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JMGOEREP
-
-[Document17]
-DocumentPath=G:\Work\Altium\Hariharan Veerappan\Toradex Colibri\iris-v2.0a-altium-project\Iris V2.0A AltiumProject\Iris CAD V2.0A\Libraries\Iris.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
 DocumentPath=Toradex_Colibri.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,8 +309,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVLTHGOV
 
-[Document19]
-DocumentPath=G:\Altium library\3DPCBLIBRARY\Inlib.SchLib
+[Document17]
+DocumentPath=Toradex_Colibri.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,7 +324,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OYRASNZY
+DocumentUniqueId=ONBBWHMM
 
 [Configuration1]
 Name=Sources
