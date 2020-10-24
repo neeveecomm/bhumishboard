@@ -295,23 +295,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QPFYTLSQ
 
 [Document16]
-DocumentPath=Toradex_Colibri.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SVLTHGOV
-
-[Document17]
 DocumentPath=bhumishboard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
