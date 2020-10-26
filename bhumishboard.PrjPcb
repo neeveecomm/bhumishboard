@@ -276,7 +276,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MTVJENYS
 
 [Document15]
-DocumentPath=Toradex_Colibri.PcbDoc
+DocumentPath=Toradex_Colibri 5.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
