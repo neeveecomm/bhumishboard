@@ -242,23 +242,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OHQLQHJQ
 
 [Document13]
-DocumentPath=LoRa.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YBHIWCBV
-
-[Document14]
 DocumentPath=L506.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,6 +257,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTVJENYS
+
+[Document14]
+DocumentPath=LoRa.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YBHIWCBV
 
 [Document15]
 DocumentPath=Toradex_Colibri 5.0.PcbDoc
@@ -310,7 +310,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QPFYTLSQ
 
 [Document17]
-DocumentPath=bhumishboard.PcbLib
+DocumentPath=G:\Altium library\3DPCBLIBRARY\3DPCBLIBRARY.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,10 +324,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ONBBWHMM
+DocumentUniqueId=JMGOEREP
 
 [Document18]
-DocumentPath=G:\Altium library\3DPCBLIBRARY\3DPCBLIBRARY.PcbLib
+DocumentPath=G:\Work\Altium\Hariharan Veerappan\Toradex Colibri\iris-v2.0a-altium-project\Iris V2.0A AltiumProject\Iris CAD V2.0A\Libraries\Iris.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
