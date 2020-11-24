@@ -295,7 +295,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QPFYTLSQ
 
 [Document16]
-DocumentPath=Toradex_Colibri_new_5.0.CSPCBDoc
+DocumentPath=Toradex_Colibri.CSPcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -310,6 +310,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVYJFSEG
+
+[Document17]
+DocumentPath=bhumishboard.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCHQRABF
 
 [GeneratedDocument1]
 DocumentPath=Toradex_Colibri_new_5.0.LOG
